@@ -1,3 +1,5 @@
+GREASYFORK: https://greasyfork.org/en/scripts/523946-remover-googlehistory
+
 O script tem como objetivo melhorar a privacidade do usuário ao evitar rastreamentos e redirecionamentos no Google, tornando a navegação mais direta e sem a coleta de dados indesejada.
 
 *Função Anônima para Desativar o GoogleAnalytics*
