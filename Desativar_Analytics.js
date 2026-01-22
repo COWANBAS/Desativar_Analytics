@@ -2,7 +2,7 @@
 // @name                   Remover GoogleHistory
 // @description            Remove em qual link foi clicado por último no Google
 // @namespace              CowanGOOGLE
-// @license                CowBas
+// @license                GPL-3.0
 // @version                1.0
 // @author                 Cowanbas
 // @match                  *://*/*
@@ -44,3 +44,4 @@ else if (document.querySelector('#desktop-search')) {
     results[i].href = url.searchParams.get('q');
   }
 }
+
